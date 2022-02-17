@@ -22,6 +22,10 @@ body{
   align-items: center;
 }
 
+.intro a{
+  color: #292b2c;  
+}
+
 .skillset{
   text-align: center;
 }

@@ -26,10 +26,6 @@ body{
   color: #292b2c;  
 }
 
-.skillset{
-  text-align: center;
-}
-
 .fa-solid{
   margin-bottom: 20px;
 }
@@ -72,14 +68,4 @@ body{
 
 .twitter:hover{
   color: #1DA1F2;
-}
-
-/** id selectors **/
-#skills{
-  padding: 10% 20%;
-}
-
-#projects{
-  background-color: white;
-  text-align: center;
 }
